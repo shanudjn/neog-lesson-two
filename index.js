@@ -80,6 +80,6 @@ if (score >= highScore[0].points) {
     }
 }
 
-console.log(chalk.bgYellow.bold.black('ThankYou For Playing'));
+console.log(chalk.bgYellow.bold.black('ThankYou For Playing!!!'));
 
 
